@@ -1,0 +1,150 @@
+#container{
+    
+    width: 189px;
+    height: 672px;
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    border: solid 1px #d9d9d9;
+    background-color: #d9d9d9;
+    
+   
+   
+
+}
+
+
+.Home{
+    border: solid 1px #d9d9d9;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    
+
+}
+.Cadastros{
+    border: solid 1px;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    color: white;
+    
+}
+.Cidade{
+    border: solid 1px;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #04c9f4;
+    color: white;
+    
+}
+.Estado{
+    border: solid 1px;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #04c9f4;
+    color: white;
+    
+}
+.País{ 
+    border: solid 1px;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+background-color: #04c9f4;
+color: white;
+
+}
+
+    .Usuário{
+        border: solid 1px;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #04c9f4;
+    color: white;
+    
+    }
+    h1{
+        height: 45px;
+        width: 100%;
+        margin-left: 192px;
+        margin-top: -676px;
+        font-size: 14px;
+        background-color: #04c9f4;
+        border: solid 1px #04c9f4;
+        line-height: 16.94px;
+        font-weight: 500;
+       text-align: start;
+       color: white;
+    }
+    a{
+        text-decoration: none;
+    }
+
+    #dimg{
+        display: flex;
+    justify-content: center;
+    }
+       
+       img{
+        width: 377px;
+        height: 368px;
+        margin-left: 380px;
+        margin-top: 10px;
+       }
+       
+       
+       
+    
+    body{
+        background-color: #e7e7e7;
+        border: solid 1px #d9d9d9;
+        margin: 0;
+    
+    }
+    footer{
+        display: flex;
+        justify-content: center;
+        margin-top: 195px;
+        border: solid 1px white;
+        background-color: white;
+        margin-left: 192px;
+        font-weight: 400;
+        color: #04c9f4;
+        width: 100%;
+        
+        
+        
+    }
+
+
+    @media  screen and(max-width:1020px){
+        .img{
+            width: 30%;
+        }
+
+    }

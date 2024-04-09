@@ -1,0 +1,229 @@
+#container{
+    width: 189px;
+    height: 672px;
+    padding: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    border: solid 1px #d9d9d9;
+    background-color: #d9d9d9;
+}
+.Home{
+    border: solid 1px #d9d9d9;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    color: white;
+}
+.Cadastros{
+    border: solid 1px;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    color: white;
+    
+}
+.Cidade{
+    border: solid 1px white;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #04c9f4;
+    color: white;
+    
+}
+.Estado{
+    border: solid 1px white;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #04c9f4;
+    color:white;
+    
+}
+.País{ 
+    border: solid 1px white;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #04c9f4;
+    color:black;
+}
+.Usuário{
+
+    border: solid 1px;
+    width: 189px;
+    height: 29px;
+    line-height: 16.94px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    background-color: #04c9f4;
+    color: white;
+
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color:#fefbfb;
+    margin: 0;
+    border: solid 1px #d9d9d9 ;
+
+}
+h1{
+    margin-left: 192px;
+    font-size: 14px;
+    line-height: 16.94px;
+    height: 42px;
+    border: solid 1px #04c9f4;
+    background-color: #04c9f4;
+    font-weight: 500;
+    margin-top: -679px;
+    width: 100%;
+    color: white;
+    
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 490px;
+    border: solid 1px white;
+    background-color: white;
+    margin-left: 195px;
+    font-weight: 400;
+    color: #04c9f4;
+    width: 100%;}
+
+    h1{
+        margin-left: 192px;
+        font-size: 14px;
+        line-height: 16.94px;
+        height: 42px;
+        border: solid 1px #04c9f4;
+        background-color: #04c9f4;
+        font-weight: 500;
+        margin-top: -679px;
+        width: 100%;
+        color: white;}
+
+        .form{
+            display: flex;
+            justify-content: center;
+            width: 454px;
+            height: 223px;
+            margin-left: 198px;
+            background-color:#d9d9d9;
+        }
+        .Nome{
+            display: flex;
+            width: 436px;
+            height: 45px;
+            margin-left: 205px;
+            margin-top: -140px;
+            border: solid 1px white;
+            
+            
+        }
+        .estado{
+            display: flex;
+            width:66px;
+            height: 38px;
+            margin-left: 205px;
+            margin-top: 20px;
+            border: solid 1px white;
+        }
+        .Codigo{
+            display: flex;
+            width:363px;
+            height: 38px;
+            margin-left: 280px;
+            margin-top: -41.50px;
+            border: solid 1px white;
+            
+        }
+        .Buscar{
+            display: flex;
+            width: 95px; 
+            height: 31px;
+            margin-left: 210px;
+            margin-top: 95px;
+            font-size: 14px;
+            line-height: 16,94px;
+            font-weight: 400;
+            background-color: #04c9f4;
+            border: solid 1px #04c9f4;
+            color: white;
+        }
+        .excluir{
+            display: flex;
+            width: 95px; 
+            height: 31px;
+            margin-left: 320px;
+            margin-top: -30px;
+            font-size: 14px;
+            line-height: 16,94px;
+            font-weight: 400;
+            background-color: #f40404;
+            border:solid 1px #f40404 ;
+            color: white;
+            
+        }
+    
+        .cancelar{
+            display: flex;
+            width: 95px; 
+            height: 31px;
+            margin-left: 435px;
+            margin-top: -30px;
+            font-size: 14px;
+            line-height: 16,94px;
+            font-weight: 400;
+            background-color:#ffffff;
+            border: solid 2px white;
+            color: #04c9f4;
+        }
+
+.salvar{
+        display: flex;
+        width: 95px; 
+        height: 31px;
+        margin-left: 550px;
+        margin-top: -32px;
+        font-size: 14px;
+        line-height: 16,94px;
+        font-weight: 400;
+        background-color: #04c9f4;
+        border: solid 1px #04c9f4;
+        color: white;
+    }
+
+
+    .name{
+        margin-left: 205px;
+        margin-top: -195px;
+        font-size: 17px;
+        line-height: 16.94px;
+        font-weight: 400;
+        color: #ffffff;}
+
+ 
+    
